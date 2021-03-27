@@ -1,0 +1,34 @@
+@charset "UTF-8";
+.footer {
+  background: #d8bf6f;
+  color: rgba(175, 40, 40, 0.548);
+  font-size: 12px;
+}
+
+body {
+  background: #01f;
+}
+
+::-webkit-input-placeholder {
+  color: gold;
+  background: #000;
+  background-image: url(../../../../Архив/IMAGE/img/content/001.jpg);
+}
+
+:-ms-input-placeholder {
+  color: gold;
+  background: #000;
+  background-image: url(../../../../Архив/IMAGE/img/content/001.jpg);
+}
+
+::-ms-input-placeholder {
+  color: gold;
+  background: #000;
+  background-image: url(../../../../Архив/IMAGE/img/content/001.jpg);
+}
+
+::placeholder {
+  color: gold;
+  background: #000;
+  background-image: url(../../../../Архив/IMAGE/img/content/001.jpg);
+}
